@@ -1,10 +1,10 @@
 ### Hi there!
 
-I'm Arun, a software engineer based in Helsinki, Finland.
+I'm Arun, a software engineer from Helsinki, Finland.
 
-I currently work as a Software Developer at **Digia**, building software solutions. Previously, I worked at **KONE** and was a Research/Teaching Assistant at **Aalto University**.
+I currently work as a Software Developer at **Digia**, working on AI and data-driven projects. Previously, I was a Data Scientist at **Kelluu** and ML Engineer Trainee at **Savox Communications**.
 
-I'm passionate about AI, machine learning, and building high-impact products. I hold an AWS Cloud Practitioner certification and work with technologies like Python, TypeScript, React, and cloud platforms.
+I'm fascinated by high-impact products and technologies that make a difference. My work spans machine learning, computer vision, and full-stack development using Python, TypeScript, React, and cloud platforms (AWS, Azure).
 
 **Portfolio:** [arunbhatia-dev.github.io](https://arunbhatia-dev.github.io)
 
